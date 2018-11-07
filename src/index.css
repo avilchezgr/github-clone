@@ -12,3 +12,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.fileIcon{
+	font-size:15px;
+	width: 17px;
+}
+.fileName{
+	text-align:left;
+}
+.iFolder{
+	color:#508FCA;
+	
+}
+.fileList{
+	font-family: Helvetica, sans-serif;
+	width:980px;
+	color: #333;
+	margin: 100px auto;
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+.fileListItem{
+	padding:10px;
+}
+.commitMessage{
+	text-align:left;
+}
+.fileList td {
+border-top: 1px solid #ccc;
+padding:5px;
+}
+.fileList tr {
+	
+}

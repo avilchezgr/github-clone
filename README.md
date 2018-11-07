@@ -1,3 +1,10 @@
+## Clone of commit history of a project in github made with React
+
+The app gets the data from an array and shows it in the screen.
+
+![](github-clone.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
