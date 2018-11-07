@@ -2,7 +2,7 @@
 
 The app gets the data from an array and shows it in the screen.
 
-![](github-clone.gif)
+![](github-clone.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
